@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body,html{
+    width:100%;
+    height:100%;
+}
+:root{
+    --primaryColor:#00b7ff;
+    --secondaryColor:#6c757d;
+}
+#primaryBtn{
+    background-color: var(--primaryColor);
+}
+#secondaryBtn{
+    background-color: var(--secondaryColor);
+}
+button{
+    border: none;
+    padding: 6px 20px;
+    color: #fff;
+    font-size: 20px;
+    margin: 5px;
+}
