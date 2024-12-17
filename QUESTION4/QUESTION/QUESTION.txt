@@ -1,2 +1,1 @@
-QUESTION:You have to visit the PW Skills website (https://pwskills.com/) and have to hide the logo by using the developer
-tool. This should be done using the css and developer tool only, use of javascript is prohibited.
+QUESTION:You have to visit the PW Skills website (https://pwskills.com/) and have to hide the logo by using the developer tool. This should be done using the css and developer tool only, use of javascript is prohibited.
